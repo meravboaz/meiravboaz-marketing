@@ -27,4 +27,4 @@ For the shows, the buyers are kindergarten managers, librarians and municipal cu
 - Website: https://meiravboaz.co.il (Netlify site `meiravboaz`; source: GitHub `meravboaz/meiravboaz-site`)
 - Google Ads tag: `AW-18449420494` (on both pages; **no conversion events yet**)
 - Meta ad account: `1625796165909039` (ILS). The Meta connector isn't enabled for it yet (gradual rollout, as of 2026-10-10)
-- Meta pixel: **not installed on the site** (as of 2026-10-10)
+- Meta pixel: `1102922088890690`, installed on both pages 2026-10-10 (PageView only so far)
