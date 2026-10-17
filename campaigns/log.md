@@ -23,4 +23,4 @@ Newest first. Template:
 - **Creative:** headlines such as "קורס מוסיקה למבוגרים", "שיעור ניסיון ללא עלות", "מעולם לא ניגנתם?", "אף פעם לא מאוחר לנגן"
 - **Results:** not running yet
 - **Lessons:** context from Performance Max-1 (last 30 days to 2026-10-15: ₪286.65, 370 clicks, 0 conversions): ~76% of clicks were YouTube/Discover, targeting was all of Israel, search terms were mostly off-offer (organ, voice, competitors). The account's only conversion action is a lead form, but the site has no form, so conversions can't be counted until WhatsApp/phone click conversions exist.
-- **Status:** paused, waiting for Merav's approval to enable; recommend adding WhatsApp/phone conversion tracking first
+- **Status:** paused, waiting for Merav's approval to enable. WhatsApp/phone conversion tracking added 2026-10-17, so leads can be counted once it runs.

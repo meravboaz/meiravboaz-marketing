@@ -25,7 +25,7 @@ For the shows, the buyers are kindergarten managers, librarians and municipal cu
 
 ## Accounts and IDs
 - Website: https://meiravboaz.co.il (Netlify site `meiravboaz`; source: GitHub `meravboaz/meiravboaz-site`)
-- Google Ads tag: `AW-18449420494` (on both pages; **no conversion events yet**)
+- Google Ads tag: `AW-18449420494` (on both pages). Conversion actions (2026-10-17): "לחיצה על וואטסאפ באתר" `7852015137` (CONTACT) and "לחיצה על טלפון באתר" `7852015140` (PHONE_CALL_LEAD), both primary, one per click, events on the home page only. The old "שליחת טופס לפרטי לידים" action `7768559884` can't fire: the site has no form.
 - Meta business portfolio: "מירב בועז" (`1356668956242884`). It holds the ad account, the Facebook Page and the pixel, all connected, and Merav has full control (2026-10-10).
 - Meta ad account: `1625796165909039` (ILS). The Meta connector isn't enabled for it yet (Meta's gradual rollout, rechecked 2026-10-10). No app or token is needed; the connector uses Merav's own login.
 - Decided 2026-10-10: don't use the desktop browser for Ads Manager. Until the connector is enabled, work from reports Merav exports.
