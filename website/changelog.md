@@ -12,6 +12,7 @@ Newest first.
 - 2026-10-04: Last manual upload (included the Google Ads tag AW-18449420494).
 
 ## Open items
+- Planned (2026-10-17): replace the hero photo with a slow 3-image crossfade (1. circle laughing, 2. ribbons/movement, 3. recorders close-up), strongest image first, still image for reduced-motion. Frames picked from Merav's WhatsApp videos were too small (848px), so Merav will film the current course in 4K and send originals (not via WhatsApp).
 - Kids page (`Kids.html`) still shows placeholder text for the three show names and descriptions (`[שם המופע הראשון]` and so on).
 - Email taps aren't tracked (only WhatsApp and phone were requested).
 - Add Meta `Contact` events for WhatsApp, phone and email taps, so Meta counts leads and not just page views.
