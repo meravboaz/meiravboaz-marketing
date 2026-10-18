@@ -2,6 +2,7 @@
 
 Newest first.
 
+- 2026-10-18: Hero subtitle changed to plural, approved by Merav after screenshot previews: "קורסי מוסיקה למבוגרים בנס ציונה: שרים, מנגנים, זוכרים ונהנים, בקבוצות קטנות וחמות."
 - 2026-10-17: Added caption for testimonial video 3 (`v4.mp4`, seated in purple, 1:03): "בשבילי, זה היה ללמוד שפה חדשה וממש נהניתי" – סבטלנה, רחובות (Merav's wording). Merav also sent a second, vertical selfie video of Svetlana; undecided which to keep (garden video looks better; content is Merav's call).
 - 2026-10-17: Testimonial videos section (`index.html`), approved by Merav after screenshot previews: added a caption under the carousel that follows the active video. Video 1 (`v1.mp4`, standing in a garden): "אני מגיעה לחוג שמחה ויוצאת מאושרת" – פיפי, חולון. Video 2 (`v2.mp4`, close-up with glasses): "המשתתפים מחכים מדי שבוע למפגש הבא ולתכנית ההמשך" – אביבה, מזכרת בתיה. Video 3 (`v4.mp4`, seated in purple) has no caption yet (space kept, hidden).
 - 2026-10-17: `videos/v2.mp4` (Aviva) audio raised from -26.3 to -14.5 LUFS, peak -0.5 dBFS, to match the other two videos; video stream unchanged. Removed the hidden "העלו סרטון בשם videos/vN.mp4" placeholder text that crawlers and screen readers read.
