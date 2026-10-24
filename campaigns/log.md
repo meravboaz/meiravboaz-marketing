@@ -16,11 +16,11 @@ Newest first. Template:
 
 ## 2026-10-24: פניות - קורסי מוסיקה למבוגרים 55+ (Meta, Leads)
 - **Goal:** leads (name + phone) for adult music courses via an instant form inside Facebook/Instagram
-- **Offer / form:** free trial lesson; lead form "שיעור ניסיון - מוסיקה למבוגרים" (`1846558216343476`, Hebrew, higher-intent review step): full name, phone, "מה מעניין אותך?" (קורס מוסיקה למבוגרים / קבוצת חלילית / עוד לא יודע/ת); thank-you button to WhatsApp; privacy URL meiravboaz.co.il/privacy.html (page awaiting Merav's approval)
+- **Offer / form:** free trial lesson; lead form "שיעור ניסיון - מוסיקה למבוגרים" (`1846558216343476`, Hebrew, higher-intent review step): full name, phone, "מה מעניין אותך?" (קורס מוסיקה למבוגרים / קבוצת חלילית / עוד לא יודע/ת); thank-you button to WhatsApp; privacy URL meiravboaz.co.il/privacy.html (live since 2026-10-24)
 - **Audience:** ages 55–65+, 15 km around Ness Ziona (same center as the September campaign), home/recent, Advantage+ audience OFF; placements Facebook feed + Instagram feed only (no Reels)
 - **Budget / dates:** ₪30/day at campaign level. Created 2026-10-24 PAUSED: campaign `52625168186445`, ad set `52625168251845`
 - **Creative (planned):** image ad (hero group photo) and video ad (Aviva testimonial, video `2049081579109862` uploaded to the ad account). Text: "מעולם לא ניגנתם? אף פעם לא מאוחר 🎶 / קורסי מוסיקה חוויתיים למבוגרים בנס ציונה... / השאירו פרטים ומירב תחזור אליכם לתיאום שיעור ניסיון ללא עלות." Headline "המוח לא יוצא לפנסיה...", CTA SIGN_UP
-- **Blocked:** creating the ad creatives failed: Meta error 1885183 "Ads creative post was created by an app that is in development mode". The Meta app must be switched to Live (Hibban/Robby), or Merav creates the two ads in Ads Manager inside the existing ad set
+- **Blocked:** creating the ad creatives failed: Meta error 1885183 "Ads creative post was created by an app that is in development mode". The Meta app must be switched to Live (Hibban/Robby), or Merav creates the two ads in Ads Manager inside the existing ad set. 2026-10-24: drafted an English request for Merav to send to Hibban
 - **Status:** paused, no ads yet
 
 ## 2026-09-17 → 2026-10-13: פרסום: "קורסים להכרת שפת המוסיקה למבוגרים" (Meta, Traffic) — reviewed 2026-10-24
