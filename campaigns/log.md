@@ -22,6 +22,7 @@ Newest first. Template:
 - **Creative:** image ad (hero group photo) and video ad (Aviva testimonial, video `2049081579109862` uploaded to the ad account). Text: "מעולם לא ניגנתם? אף פעם לא מאוחר 🎶 / קורסי מוסיקה חוויתיים למבוגרים בנס ציונה... / השאירו פרטים ומירב תחזור אליכם לתיאום שיעור ניסיון ללא עלות." Headline "המוח לא יוצא לפנסיה...", CTA SIGN_UP
 - **Blocked:** creating the ad creatives failed: Meta error 1885183 "Ads creative post was created by an app that is in development mode". The Meta app must be switched to Live (Hibban/Robby), or Merav creates the two ads in Ads Manager inside the existing ad set. 2026-10-24: drafted an English request for Merav to send to Hibban
 - **2026-10-27:** Hibban switched the Meta app to Live. Created creatives `939603912361326` (image) and `1753247232565325` (video; first try returned a transient HTTP 500, retried once) and ads `52625524118645` (image) and `52625524128445` (video), both PAUSED, in Meta review (IN_PROCESS)
+- **2026-10-27:** Merav asked to change the button from "הרשמה" (SIGN_UP) to "מידע נוסף" (LEARN_MORE) to feel less committing. New creatives `2229705850926246` (image) and `1681389650267704` (video) attached to the same two ads; back in Meta review
 - **Status:** fully built and paused, waiting for Merav's approval to turn on
 
 ## 2026-09-17 → 2026-10-13: פרסום: "קורסים להכרת שפת המוסיקה למבוגרים" (Meta, Traffic) — reviewed 2026-10-24
