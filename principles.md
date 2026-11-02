@@ -10,5 +10,6 @@ Format: `- [YYYY-MM-DD] principle (evidence / source)`
 - [2026-10-24] Meta Advantage+ audience pushed 22% of spend to ages 25–34 although the course is for older adults; keep it off and set ages 55+ (Sept–Oct 2026 Meta campaign)
 
 ## Creative and copy
+- [2026-11-02] Merav's rule: "שיעור ניסיון ללא עלות" may appear on the site and in ad body text, but never as an ad headline, highlighted callout/sitelink, form title or button
 
 ## Website and conversion
