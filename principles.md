@@ -4,6 +4,7 @@ What works and what doesn't. Each line should come from real results or a decisi
 Format: `- [YYYY-MM-DD] principle (evidence / source)`
 
 ## Ads
+- [2026-11-03] Google disapproves phone numbers written in ad text or sitelink descriptions; use the call asset only (sitelink "צרו קשר" disapproval)
 - [2026-10-24] Meta "Traffic" objective with automatic placements spent 63% on Instagram Reels and brought ~1,350 clicks but no measurable leads; use a Leads objective with feed placements (Sept–Oct 2026 Meta campaign)
 
 ## Audience and targeting
