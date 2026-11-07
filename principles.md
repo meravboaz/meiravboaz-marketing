@@ -14,3 +14,4 @@ Format: `- [YYYY-MM-DD] principle (evidence / source)`
 - [2026-11-02] Merav's rule: "שיעור ניסיון ללא עלות" may appear on the site and in ad body text, but never as an ad headline, highlighted callout/sitelink, form title or button
 
 ## Website and conversion
+- Meta feed images: make them 4:5 (1080x1350) or 1:1. Facebook crops taller images in the feed, and in Merav's poster that cut the phone line (2026-11-07).
