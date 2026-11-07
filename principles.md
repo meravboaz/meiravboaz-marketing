@@ -15,3 +15,4 @@ Format: `- [YYYY-MM-DD] principle (evidence / source)`
 
 ## Website and conversion
 - Meta feed images: make them 4:5 (1080x1350) or 1:1. Facebook crops taller images in the feed, and in Merav's poster that cut the phone line (2026-11-07).
+- Google Search: generic senior-leisure keywords (גיל הזהב, פעילויות לגמלאים) spent 71% of the budget on people looking for trips, lectures and day centers, with no leads (first week, 2026-11). Keep keywords music-specific.
