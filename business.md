@@ -29,4 +29,4 @@ For the shows, the buyers are kindergarten managers, librarians and municipal cu
 - Meta business portfolio: "מירב בועז" (`1356668956242884`). It holds the ad account, the Facebook Page and the pixel, all connected, and Merav has full control (2026-10-10).
 - Meta ad account: `1625796165909039` (ILS). The Meta connector isn't enabled for it yet (Meta's gradual rollout, rechecked 2026-10-10). No app or token is needed; the connector uses Merav's own login.
 - Decided 2026-10-10: don't use the desktop browser for Ads Manager. Until the connector is enabled, work from reports Merav exports.
-- Meta pixel: `1102922088890690`, installed on both pages 2026-10-10 (PageView only so far)
+- Meta pixel: `1102922088890690`, installed on both pages 2026-10-10 (PageView; plus Contact on WhatsApp/phone taps on index.html since 2026-11-07)

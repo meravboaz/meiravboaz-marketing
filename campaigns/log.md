@@ -14,6 +14,15 @@ Newest first. Template:
 
 ---
 
+## 2026-11-07: אתר - פניות וואטסאפ/טלפון - קורסים למבוגרים 55+ (Meta, Leads → website)
+- **Goal:** Merav's flow: a click on the ad opens the website; people who like it contact her by WhatsApp or phone (no instant form)
+- **Why a separate campaign:** Merav approved a new website ad set inside campaign `52625168186445`, but Meta refused it (error 1885760): with a campaign budget and lowest cost, every ad set in a campaign must use the same optimization (that one optimizes for form leads). So it was built as its own campaign
+- **Audience:** same as the form campaign: ages 55–65+, 15 km around Ness Ziona, home/recent, Advantage+ audience OFF, Facebook feed + Instagram feed only
+- **Optimization:** OFFSITE_CONVERSIONS on pixel `1102922088890690`, event CONTACT (WhatsApp/phone taps on the site, live since 2026-11-07)
+- **Budget / dates:** ₪30/day at campaign level. Created 2026-11-07 PAUSED: campaign `52628378156045`, ad set `52628378268645`, creative `1472266485113892`, ad `52628378773045` (in Meta review)
+- **Creative:** Merav's own poster (her photo without the clarinet, top text "תנו למוח אתגר מסקרן ולנפש זמן של הנאה", only change "ולימוד כלי נשיפה" → "וקבוצות חלילית"; Merav tried "המוח לא יוצא לפנסיה" on top and asked to go back), image hash `7d91c2f226d69fc6571cd9d961fea1ff`. Text "מעולם לא ניגנתם? מעולה! 🎶 / זה בדיוק המקום להתחיל 😊 / ✨ שרים, מנגנים, זוכרים ונהנים / ✨ קבוצות קטנות וחמות בנס ציונה / ✨ ללא ידע מוקדם ובלי קריאת תווים / 👇 לחצו על "מידע נוסף" כדי להכיר את מירב ואת הקורסים". Headline "שרים, מנגנים ונהנים יחד 🎶", description "קורסי מוסיקה וקבוצות חלילית למבוגרים בנס ציונה", CTA LEARN_MORE → https://meiravboaz.co.il/
+- **Status:** fully built and paused. Don't run it together with the form campaign without deciding the total budget (both are ₪30/day)
+
 ## 2026-10-24: פניות - קורסי מוסיקה למבוגרים 55+ (Meta, Leads)
 - **Goal:** leads (name + phone) for adult music courses via an instant form inside Facebook/Instagram
 - **Offer / form:** free trial lesson; lead form "שיעור ניסיון - מוסיקה למבוגרים" (`1846558216343476`, Hebrew, higher-intent review step): full name, phone, "מה מעניין אותך?" (קורס מוסיקה למבוגרים / קבוצת חלילית / עוד לא יודע/ת); thank-you button to WhatsApp; privacy URL meiravboaz.co.il/privacy.html (live since 2026-10-24)

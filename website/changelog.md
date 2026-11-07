@@ -2,6 +2,7 @@
 
 Newest first.
 
+- 2026-11-07: Meta pixel `Contact` event added to the existing WhatsApp/phone click listener in `index.html` (`content_name` whatsapp or phone), approved by Merav (commit 927714a). It lets Meta optimize website ads for real contacts. Visitors see no change. Verified on the live site 2026-11-07: the code is in the page source and a WhatsApp tap called `fbq('track','Contact',{content_name:'whatsapp'})` (this test sent one Contact event to the pixel). Email taps are still not tracked.
 - 2026-11-02: SEO for branded searches (approved by Merav; goal: compete with מוסיקה בחיים and מי לה סול on "בית ספר למוסיקה למבוגרים"): `<title>` and og:title → "מירב בועז - בית ספר למוסיקה למבוגרים | נס ציונה"; added meta description (Merav's wording) "קורסי מוסיקה חוויתיים וקבוצות חלילית למבוגרים בנס ציונה, ללא ידע מוקדם."; added MusicSchool JSON-LD (name, alternateName מירב המוסיקה, phone, email, Ness Ziona). Google updates after recrawl; Indexing of https://meiravboaz.co.il/ requested in Search Console the same day (property https://meiravboaz.co.il/, via the built-in browser signed in as Merav); Google confirmed "התקבלה בקשה ליצירת אינדקס".
 - 2026-10-24: Added `privacy.html` (privacy policy: what is collected, why, Meta/Google measurement tools, deletion requests, contact; noindex) and a "מדיניות פרטיות" link in the footer of `index.html`. Required for the Meta lead form. Approved by Merav after screenshot preview.
 - 2026-10-18: Hero subtitle changed to plural, approved by Merav after screenshot previews: "קורסי מוסיקה למבוגרים בנס ציונה: שרים, מנגנים, זוכרים ונהנים, בקבוצות קטנות וחמות."
@@ -23,4 +24,3 @@ Newest first.
 - Planned (2026-10-17): replace the hero photo with a slow 3-image crossfade (1. circle laughing, 2. ribbons/movement, 3. recorders close-up), strongest image first, still image for reduced-motion. Frames picked from Merav's WhatsApp videos were too small (848px), so Merav will film the current course in 4K and send originals (not via WhatsApp).
 - Kids page (`Kids.html`) still shows placeholder text for the three show names and descriptions (`[שם המופע הראשון]` and so on).
 - Email taps aren't tracked (only WhatsApp and phone were requested).
-- Add Meta `Contact` events for WhatsApp, phone and email taps, so Meta counts leads and not just page views.
