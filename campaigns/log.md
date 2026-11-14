@@ -14,6 +14,12 @@ Newest first. Template:
 
 ---
 
+## 2026-11-14: Weekly Google vs Meta review (read-only, no changes)
+- **Meta** website campaign `52628378156045`, 7–13.11: ₪180.94, 4,210 impressions, reach 2,479, frequency 1.70, 162 link clicks, 128 landing page views, 16 pixel conversions (offsite_conversion.fb_pixel_custom), ₪11.31/conv. Facebook ₪163.24 / 148 clicks / 14 conv; Instagram ₪17.70 / 14 / 2. Age 65+: reach 1,921, ₪155.37, 143 clicks, 12 conv; 55–64 (until the 11.11 switch to 65+): reach 601, ₪25.57, 19 clicks, 4 conv. Per ad: poster `52628378773045` ₪130.79 / 101 clicks / 12 conv; video 2 `52629390013245` (from 12.11) ₪50.15 / 61 clicks / 4 conv. Ad set ACTIVE, ages 65+, ₪30/day.
+- **Google** campaign `24360789009`, 8–13.11: ₪80.87, 51 impressions, 9 clicks, 1 conversion (לחיצה על וואטסאפ באתר, recorder group), ₪80.87/conv. Course group 39 impr / 6 clicks / ₪56.77; recorder 12 / 3 / ₪24.10 / 1 conv; brand and competitor groups 0 impressions. All 5 enabled ads APPROVED. Non-music generic search terms: "חוגים לגיל השלישי ברחובות" (1 click, ₪9.38), "נס ציונה חוגים למבוגרים" (1 click, ₪9.73), "חוגים למבוגרים רחובות" (5 impr). Spend ~₪13.5/day of ₪35: limited by search volume.
+- **Competitor test** `202941947958` (9–13.11): 0 impressions, 0 clicks, ₪0; search impression share <10%, 90% lost to rank. Recommended removing it.
+- **Sent to Merav:** Meta clearly cheaper per WhatsApp/phone click (₪11 vs ₪81). Suggestions: raise Meta ₪30→₪40/day, no extra Google budget; remove competitor group and add negatives for generic "חוגים" searches. Asked how many real inquiries she received this week. Nothing changed; awaiting her decision.
+
 ## 2026-11-07: אתר - פניות וואטסאפ/טלפון - קורסים למבוגרים 55+ (Meta, Leads → website)
 - **Goal:** Merav's flow: a click on the ad opens the website; people who like it contact her by WhatsApp or phone (no instant form)
 - **Why a separate campaign:** Merav approved a new website ad set inside campaign `52625168186445`, but Meta refused it (error 1885760): with a campaign budget and lowest cost, every ad set in a campaign must use the same optimization (that one optimizes for form leads). So it was built as its own campaign
