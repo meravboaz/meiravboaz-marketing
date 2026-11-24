@@ -2,6 +2,7 @@
 
 Newest first.
 
+- 2026-11-24: Merav saw her organic Google result titled "בית ספר למוסיקה למבוגרים" with a snippet about early-childhood music education (Google took it from the "קצת עליי" block). At her request added `data-nosnippet` to the "חינוך מוזיקלי לגיל הרך" heading and paragraph so Google won't use them in search snippets; no visible change. Commit 58d132d, verified live. Not done (offered): moving the adults paragraph above it, removing it, Search Console re-crawl request.
 - 2026-11-22: Temporary top banner (`#trial-banner`, tel link to 054-7726669): "🎶 שיעור התנסות ללא עלות / יום רביעי 2.12, משעה 11:00 עד 12:30, בנס ציונה / להרשמה: 054-7726669". Approved by Merav after a screenshot; commit a7ab877; verified live. Remove on the evening of 2.12.2026.
 - 2026-11-16: Contact section ("מוכנים לתת לעצמכם מתנה לחיים?"): added a line above the buttons, "את מועדי המפגשים נקבע יחד, לפי מה שנוח לקבוצה, בשעות הבוקר או אחר הצהריים." Merav keeps days/times open to see what most people prefer (she can do Wednesday from 11:00, Tuesday from 10:00, or afternoons any day) and does not want prices on the site. Approved after a screenshot; commit cb182b4; verified live.
 - 2026-11-09: Hero subtitle at Merav's request: "שרים, מנגנים, זוכרים ונהנים" → "שרים, מנגנים, מאזינים ונהנים" (rest unchanged). Commit 9500fb5, verified live.
